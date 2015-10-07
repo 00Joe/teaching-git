@@ -15,3 +15,4 @@ print 'C: ', b.join(' '), "\n"
 b.delete_at(2) #delets third element
 b.delete('alex') #delets alex
 print 'D: ', b.join(' '), "\n"
+print 'hi'
